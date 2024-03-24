@@ -27,7 +27,7 @@
 >## Instructions
 >Open the starter file in Google Colab and complete the following steps, which
 >are divided into three parts:
-### Part 1: Preprocessing
+>### Part 1: Preprocessing
 >1. Import the data and view the first five rows.
 >2. Determine the number of unique values in each column.
 >3. Create y_df with the attrition and department columns
